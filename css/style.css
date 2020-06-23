@@ -1,0 +1,167 @@
+body{
+	/*font-family: 'Nunito Sans', sans-serif;*/
+    font-family: 'PT Sans', sans-serif;
+}
+/*header start*/
+header{
+	background-color: #ffcc00;
+	padding: 15px 0;
+}
+.menu ul li a{
+	font-size: 22px;
+	font-weight: 700;
+	color: #010101 !important;
+	padding: 0 35px !important;
+	transition-duration: .5s;
+}
+.menu ul li:last-child a{
+	padding-right: 0px !important;
+}
+.menu ul li a:hover{
+	color: #999999 !important;
+}
+/*header end*/
+/*slider start*/
+.slider{
+	background-color: #ffcc00;
+	padding-bottom: 100px; 
+}
+.cid {
+    bottom: -80px;
+}
+.cid li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.inspire{
+	margin: 50px 0 0 15px;
+}
+.inspire h1{
+    font-size: 32px;
+	font-weight: 700;
+	color: #000000 !important;
+}
+.inspire h2{
+	font-size: 20px;
+    font-weight: 400;
+    color: #333333 !important;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    padding: 8px 0;
+}
+.inspire p{
+	font-size: 16px;
+	font-weight: 400;
+	color: #666666 !important;
+	letter-spacing: .5px; 
+}
+.list-inline{
+
+
+}
+.list-inline li{
+	font-size: 42px;
+	color: #000000;
+    margin-right: 30px !important;
+}
+.inspire_img{}
+/*slider end*/
+/*feature start*/
+.feature{
+	padding-bottom: 80px;
+    padding-top: 80px;
+}
+.common_title{
+	
+}
+.c_h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #000000 !important;
+}
+.c_h2{
+	font-size: 20px;
+    font-weight: 400;
+    color: #333333 !important;
+    letter-spacing: 1px;
+    word-spacing: 1.5px;
+}
+.single_item{
+margin-top: 60px;
+}
+.icon{
+margin: 3px 0 0 25px;
+}
+.icon img{
+
+}
+.fea_cont{
+
+}
+.fea_cont h1{
+	font-size: 22px;
+	font-weight: 400;
+	color: #000000 !important;
+}
+.fea_cont p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #999999 !important;
+    letter-spacing: 1px;
+}
+/*feature end*/
+/*contact start*/
+.contact{
+	background-color: #000000;
+	padding-bottom: 80px;
+    padding-top: 80px;
+}
+.yellow{
+	color: #ffcc00 !important;
+}
+.gray{
+	color: #999999 !important;
+}
+.contact_form{
+	margin: 10px 0;
+}
+form input{
+
+}
+form button{
+   padding: 12.5px 63px !important;
+}
+.search{
+	    padding: 24px 20px;
+}
+.custom{
+	background-color: #ffcc00;
+	color:#000000;
+}
+.social_media {
+    margin-left: 65px;
+}
+.s_m li i{
+	font-size: 42px;
+	color: #ffcc00;
+	padding: 10px 7px;
+}
+/*contact end*/
+/*footer start*/
+footer{
+	background-color: #000000;
+}
+.address{
+
+}
+.address ul li{
+	list-style: none;
+}
+.address ul li a{
+text-decoration: none;
+color: #fff;
+font-size: 16px;
+font-weight: 400;
+}
+/*footer end*/
